@@ -6,7 +6,7 @@ Models architectures used from Keras using transfer learning aproach.
 
 Dataset references are listed below:
 
-Plantvilage
+Plantvillage
 
 Bracol
 
